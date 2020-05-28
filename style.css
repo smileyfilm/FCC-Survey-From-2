@@ -1,0 +1,67 @@
+<style>
+
+#nothing{}
+
+#title {
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+}
+
+#survey-form {
+  background-color: hsla(300, 100%, 10%, 0.7);
+
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  border-radius: 25px;
+}
+
+body {
+  background-image: url("https://scontent.fakl4-1.fna.fbcdn.net/v/t1.0-9/53336753_10161303144970214_8584256331702075392_o.jpg?_nc_cat=100&_nc_sid=730e14&_nc_ohc=W4dUv1Fzwn0AX9C6dPY&_nc_ht=scontent.fakl4-1.fna&oh=97329c980fde4aa3088f0deab0c09526&oe=5EED7897");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#name-label {
+  color: white;
+}
+
+#email-label {
+  color: white;
+}
+
+#number-label {
+  color: white;
+}
+
+#white-text {
+  color: white;
+}
+
+#submit {
+  background-color: green;
+  width: 99%;
+}
+
+#text-area {
+  width: 98%;
+}
+
+#name {
+  width: 98%;
+}
+
+#email {
+  width: 98%;
+}
+
+#dropdown {
+  width: 98%;
+}
+
+
+</style>
